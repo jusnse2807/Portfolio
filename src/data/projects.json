@@ -1,0 +1,14 @@
+[
+  {
+    "title": "VR simulator",
+    "imageSrc": "projects/project.jpeg",
+    "description": "This is a project that simulates the movement of a heart in VR",
+    "skills": ["C#", "Unity"]
+  },
+  {
+    "title": "Electric field simulator",
+    "imageSrc": "projects/Project2.jpeg",
+    "description": "This is a project that simulates the electric field between 2 points",
+    "skills": ["Python"]
+  }
+]
